@@ -1,0 +1,160 @@
+{
+    "CLASSES": {
+        "ADVENTURER": "Poszukiwacz Przygód",
+        "MAGE": "Mag",
+        "ARCHER": "Łucznik",
+        "SWORDMAN": "Wojownik",
+        "MARTIAL": "Mistrz Sztuk Walki"
+    },
+    "DISCORD_DESC": "Przyjdź i porozmawiaj z nami na Discordzie!",
+    "ERRORS": {
+        "PASSWORD_REQ": "Hasło musi zawierać co najmniej 8 znaków i zawierać co najmniej 1 cyfrę",
+        "USERNAME_LENGTH": "Nazwa użytkownika musi zawierać co najmniej 4 znaki",
+        "WRONG_CONF_PASSWD": "Hasła muszą być identyczne",
+        "WRONG_EMAIL": "Nieprawidłowy e-mail"
+    },
+    "FORMS": {
+        "ACC_ID": "Login",
+        "AUTH": {
+            "NAME": "Ranga",
+            "USER": "Gracz",
+            "GM": "Mistrz Gry",
+            "ADMIN": "Administrator"
+        },
+        "ACTUAL_PASSWD": "Aktualne hasło",
+        "CONF_EMAIL": "Potwierdź e-mail",
+        "CONF_PASSWD": "Potwierdź hasło",
+        "FORGOT_PASSWD": "Zapomniałeś hasła?",
+        "NEW_PASSWD": "Nowe hasło",
+        "PASSWORD": "Hasło",
+        "RESET": "Wyczyść",
+        "TOS": "Akceptuję Warunki Korzystania",
+        "USERNAME": "Nazwa użytkownika"
+    },
+    "INFO": "NosWings to projekt non-profit wykonany przez studentów IT, który nie jest powiązany ani wspierany przez GameForge lub Entwell.",
+    "LINKS": {
+        "DOWNLOAD": "Pobierz",
+        "DISCLAIMER": "Wyłączenie odpowiedzialności",
+        "LOGIN": "Zaloguj się",
+        "LOGOUT": "Wyloguj się",
+        "PRIVACY": "Prywatność",
+        "PRIVACY_POLICY": "Polityka Prywatności",
+        "RANKING": "Ranking",
+        "REGISTER": "Rejestracja",
+        "TOS": "Warunki Korzystania",
+        "UPDATE": "Zaktualizuj",
+        "USEFUL_LINKS": "PRZYDATNE LINKI"
+    },
+    "NEWS": {
+        "TITLE": "Najnowsze Wiadomości"
+    },
+    "PANELS": {
+        "USER": "Panel Użytkownika",
+        "GM": "GM Panel",
+        "ADMIN": "Admin Panel"
+    },
+    "RANKING": {
+        "FAMILY": "Rodzina",
+        "MEMBERS": "Ilość członków",
+        "NAME": "Nazwa",
+        "RANK": "Miejsce",
+        "SEARCH": "Wyszukaj"
+    },
+    "REVIEW": "Powinniśmy umieścić img tutaj imo (lol)",
+    "SLIDES": {
+        "0": {
+            "DESC": "Przygotuj się na wspaniały serwer.",
+            "TITLE": "NosWings powraca!"
+        },
+        "1": {
+            "DESC": "",
+            "TITLE": "STRONA DEMONSTRACYJNA, AKTUALNIE W TRKACIE PRAC. DZIĘKI"
+        }
+    },
+    "USER_INFOS": {
+        "CLASS": "Klasa",
+        "CHARACTER": "Postać",
+        "CREATION_DATE": "Data Utworzenia",
+        "CURRENT_INFO": "Aktualne Informacje",
+        "GOLD": "Złoto",
+        "LAST_LOGIN": "Ostatnie logowanie",
+        "LEVEL": "Poziom",
+        "PSEUDO": "Nazwa postaci",
+        "REPUT": "Reputacja"
+    },
+    "USER_PANEL": {
+        "HOME": "Panel Użytkownika",
+        "SETTINGS": "Ustawienia Konta",
+        "DONATION": "Donacje",
+        "VIP": "Zostań VIPem!",
+        "SHOP": "Sklep"
+    },
+    "FAQ": {
+      "ABBR": "FAQ",
+      "BUTTONS": ["info", "player", "game", "$"],
+      "CONTENT": [
+        {
+          "category": "info",
+          "q": "When is the expected open beta date?",
+          "a": "We don't know yet. We want all systems to work properly. We don't want you to play something completely broken."
+        },
+        {
+          "category": "user",
+          "q": "Will I have to pay to enter the server?",
+          "a": "No, you won't have to. The server will be free to play."
+        },
+        {
+          "category": "money",
+          "q": "Will there be P2W on the server?",
+          "a": "No, absolutely not. The server will be free of P2W stuff. We try to avoid P2W, however, VIP players might get comfort advantages, but everything will be made to make it balanced and accessible to everyone"
+        },
+        {
+          "category": "money",
+          "q": "How do you want to keep the server financially?",
+          "a": "There will be cosmetic things in the ItemShop, such as costumes, weapon skins. The ItemShop will also include random boxes with random stuff in it, like SP Upgrade Box containing FMs, WoAs, scrolls and souls. All these boxes would also be obtainable through in-game grinding or some other means. Same goes for VIP status that gives free NosBazaar or inventory perks and more comfort oriented advantages."
+        },
+        {
+          "category": "game",
+          "q": "Will skills, equipments or PSPs be balanced?",
+          "a": "In the open beta - not yet. We will work on it later, but first we have to finish the basic features first."
+        },
+        {
+          "category": "game",
+          "q": "Will Land of Death be available?",
+          "a": "We don't know yet, but we do have plans for the Land of Death."
+        },
+        {
+          "category": "game",
+          "q": "Will there be new type of missions?",
+          "a": "Yes, definitely. For example, we would like to add quests like gather X amount of gold from mobs, or complete X Time-Spaces of given type, etc."
+        },
+        {
+          "category": "info",
+          "q": "What will be the maximum level?",
+          "a": "We are still in a planning phase for such things, but we will reveal them shortly."
+        },
+        {
+          "category": "info",
+          "q": "What rates will the server have?",
+          "a": "Same as above (the maximum level question), but they will definitely be low (about x5). We want to provide a long life gameplay to NosWings, not just a server where you get a high level character in some hours."
+        },
+        {
+          "category": "user",
+          "q": "Will I get my character deleted if I play the openbeta?",
+          "a": "Yes, the OpenBeta is opened for our testing purposes of our technical environment, also for game design purposes. All the things that players are going to do are going to be analyzed to get a lot of global statistics and be able to easily make adjustments on the gameplay."
+        },
+        {
+          "category": "info",
+          "q": "I heard that NosWings existed before, what was NosWings before now?",
+          "a": "We were the first French private server, 300 online players daily, for more than a year. Our team was composed of few enthusiastic french people. It started in November 2016 and we decided to close in January 2018 because we were not satisfied by OpenNos' possibilities to add new features in the game. Then everyone left NosWings, doing their own project on their side to learn a lot of technical new things. 1 year, 6 months later, Blowa decided to reopen the NosWings project, he conctacted old NosWings members to make a new adventure with much more possibilities."
+        },
+        {
+          "category": "info",
+          "q": "What is NosWings now?",
+          "a": "Answer in Discord (#what-is-noswings or #faq)"
+        }
+      ],
+      "DESC": "Small FAQ to answer the most frequently asked questions",
+      "TITLE": "Frequently Asked Questions"
+    }
+}

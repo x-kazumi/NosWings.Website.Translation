@@ -1,0 +1,241 @@
+{
+  "CLASSES": {
+    "ADVENTURER": "Aventurier",
+    "SWORDMAN": "Escrimeur",
+    "MARTIAL": "Artiste martial"
+  
+  },
+  "DISCORD_DESC": "Rejoignez nous sur Discord !",
+  "ERRORS": {
+    "PASSWORD_REQ": "Le mot de passe doit faire 8 caractères minimum et contenir 1 chiffre.",
+    "USERNAME_LENGTH": "L'identifiant doit comporter 4 caractères minimum.",
+    "WRONG_CONF_PASSWD": "Les mots de passes doivent être identiques.",
+    "WRONG_EMAIL": "E-mail invalide."
+  
+  },
+  "FAQ": {
+    "ABBR": "FAQ",
+    "BUTTONS": ["info", "joueur", "jeu", "€"],
+    "CONTENT": [
+      {
+        "category": "info", 
+        "q": "Quelle est la date d’ouverture de la bêta ouverte ?", 
+        "a": "Nous ne savons pas encore. Nous voulons que le serveur fonctionne proprement et que l’expérience soit agréable, dès le début."
+      },
+      {
+        "category": "user", 
+        "q": "Devrais-je payer pour jouer sur le serveur ?", 
+        "a": "Absolument pas. Le serveur sera gratuit."
+      },
+      {
+        "category": "money", 
+        "q": "Y'aura t-il du P2W sur le serveur ?", 
+        "a": "Non, absolument pas. Il n’y aura aucun équipement “P2W”. Nous essayons d’éviter le “P2W”, cependant, les joueurs “VIP”* pourront avoir des avantages améliorant la qualité de jeu. Soyez cependant certain que tous ces bonus seront équilibrés et accessible pour n’importe qui, sans payer."
+      },
+      {
+        "category": "money", 
+        "q": "Comment comptez-vous entretenir le serveur financièrement ?", 
+        "a": "Il y aura des objets cosmétiques dans la boutique, comme des costumes ou des apparences d’armes. La boutique contiendra aussi des boites mystères avec, par exemple, des Kit d’amélioration pour SP contenant des plumes d’anges, pleines lunes, parchemins et âmes. Toutes ces boîtes pourront aussi être obtenues à travers votre évolution ou par des moyens spécifiques. Il en sera de même pour “VIP”, qui donnera accès au NosBazar gratuitement, à des améliorations d’inventaire et d’autres avantages confortables."
+      },
+      {
+        "category": "game", 
+        "q": "Les compétences, équipements et SP partenaires seront-elles équilibrés par l’équipe de NosWings ?", 
+        "a": "Durant la bêta ouverte, pas encore. Nous travaillerons dessus plus tard. Nous nous concentrons en premier lieu sur les contenus basiques."
+      },
+      {
+        "category": "game", 
+        "q": "La terre des morts (LoD) sera t-elle disponible ?", 
+        "a": "Nous ne savons pas encore, mais nous avons des idées la concernant."
+      },
+      {
+        "category": "game", 
+        "q": "Il y aura des nouvelles quêtes ?", 
+        "a": "Oui. Par exemple, nous voulons ajouter des quêtes comme récolter X or en tuant des monstres, compléter X espace-temps d’un certain type, et d’autres."
+      },
+      {
+        "category": "info", 
+        "q": "Quel sera le niveau maximal ?", 
+        "a": "Nous sommes encore en train de débattre sur certains points, comme celui-ci. Nous vous assurons cependant que vous serez au courant aussitôt que ce sera fixé."
+      },
+      {
+        "category": "info", 
+        "q": "Quels seront les taux d’expérience du serveur ?", 
+        "a": "Elles seront basses (autour de x5). Nous voulons apporter une longue expérience de jeu à NosWings. Ce ne sera pas juste un serveur où on monte un personnage niveau maximal en quelques heures."
+      },
+      {
+        "category": "user", 
+        "q": "Mon personnage sera-t-il supprimé pour la sortie officielle du serveur ?", 
+        "a": "Oui. La bêta ouverte sera ouverte pour permettre au joueurs de nous faire des retours sur les contenus afin qu’on puisse les ajuster. Tout ce que vous ferez nous permettra de comprendre sur quoi nous concentrer. Aussi, ça nous permettra d’améliorer l’environnement technique du projet."
+      },
+      {
+        "category": "info", 
+        "q": "J’ai entendu que NosWings existait déjà avant, qu’en était-il du serveur avant maintenant ?", 
+        "a": "Nous étions le premier serveur privé français, 300 joueurs connectés quotidiennement, pendant plus d’un an. Notre équipe était composé de quelques français talentueux. Il a ouvert en Novembre 2016 et nous avons décidé de le fermer en Janvier 2018 parce que nous n’étions pas satisfait des possibilités que proposait OpenNos pour ajouter du nouveau contenu au jeu. L’équipe se dispersa, faisant des projets chacun leur côté pour s’améliorer techniquement. 1 an et demi plus tard, Blowa a décidé de reprendre le projet NosWings. Il a donc contacté tous les anciens membres du projet pour démarrer une nouvelle aventure avec de nouvelles possibilités."
+      },
+      {
+        "category": "info", 
+        "q": "Et maintenant, qu’est ce que NosWings ?", 
+        "a": "Réponse sur Discord (#faq-fr)"
+      }
+    ],
+    "DESC": "Petite FAQ pour répondre aux questions les plus fréquentes.",
+    "TITLE": "Foire Aux Questions"
+  
+  },
+  "FORMS": {
+    "ACC_ID": "ID du compte",
+    "AUTH": {
+      "NAME": "Authorité",
+      "USER": "Joueur",
+      "GM": "Maître du jeu",
+      "ADMIN": "Administrateur"
+    
+    },
+    "ACTUAL_PASSWD": "Mot de passe actuel",
+    "CONF_EMAIL": "Confirmez votre email",
+    "CONF_PASSWD": "Confirmez votre mot de passe",
+    "FORGOT_PASSWD": "Mot de passe oublié  ?",
+    "NEW_PASSWD": "Nouveau mot de passe",
+    "PASSWORD": "Mot de passe",
+    "RESET": "Réinitialiser",
+    "TOS": "J'accepte les Conditions d'Utilisation",
+    "USERNAME": "Nom d'utilisateur"
+  
+  },
+  "INFO": "NosWings est un projet à but non lucratif fait par des étudiants en Informatique, il n'est en aucun cas associé ou supporté par GameForge ou Entwell.",
+  "LINKS": {
+    "DOWNLOAD": "Téléchargement",
+    "DISCLAIMER": "Clause de non-responsabilité",
+    "LOGIN": "Connexion",
+    "LOGOUT": "Déconnexion",
+    "PRIVACY": "Confidentialité",
+    "PRIVACY_POLICY": "Politique de confidentialité",
+    "RANKING": "Classement",
+    "REGISTER": "Inscription",
+    "TOS": "Conditions d'Utilisation",
+    "USEFUL_LINKS": "Liens Utiles"
+  
+  },
+  "NEWS": {
+    "TITLE": "Dernières Actualités"
+  
+  },
+  "PANELS": {
+    "USER": "User Panel",
+    "GM": "GM Panel",
+    "ADMIN": "Admin Panel"
+  
+  },
+  "RANKING": {
+    "FAMILY": "Famille",
+    "MEMBERS": "Membres",
+    "NAME": "Nom",
+    "RANK": "Rang",
+    "SEARCH": "Rechercher"
+  
+  },
+  "REVIEW": "Champ pour rajouter une image",
+  "SLIDES": {
+    "0": {
+      "DESC": "Préparez vous à un serveur d'un nouveau genre.",
+      "TITLE": "NosWings est de retour !"
+    
+    },
+    "FORMS": {
+        "ACC_ID": "ID du compte",
+        "AUTH": {
+            "NAME": "Authorité",
+            "USER": "Joueur",
+            "GM": "Maître du jeu",
+            "ADMIN": "Administrateur"
+        },
+        "ACTUAL_PASSWD": "Mot de passe actuel",
+        "CONF_EMAIL": "Confirmez votre email",
+        "CONF_PASSWD": "Confirmez votre mot de passe",
+        "FORGOT_PASSWD": "Mot de passe oublié ?",
+        "NEW_PASSWD": "Nouveau mot de passe",
+        "PASSWORD": "Mot de passe",
+        "RESET": "Réinitialiser",
+        "TOS": "J'accepte les Conditions d'Utilisation",
+        "USERNAME": "Nom d'utilisateur"
+    },
+    "INFO": "NosWings est un projet à but non lucratif fait par des étudiants en Informatique, il n'est en aucun cas associé ou supporté par GameForge ou Entwell.",
+    "LINKS": {
+        "DOWNLOAD": "Téléchargement",
+        "DISCLAIMER": "Clause de non-responsabilité",
+        "LOGIN": "Connexion",
+        "LOGOUT": "Déconnexion",
+        "PRIVACY": "Confidentialité",
+        "PRIVACY_POLICY": "Politique de confidentialité",
+        "RANKING": "Classement",
+        "REGISTER": "Inscription",
+        "TOS": "Conditions d'Utilisation",
+        "UPDATE": "Réactualiser",
+        "USEFUL_LINKS": "Liens Utiles"
+    },
+    "NEWS": {
+        "TITLE": "Dernières Actualités"
+    },
+    "PANELS": {
+        "USER": "User Panel",
+        "GM": "GM Panel",
+        "ADMIN": "Admin Panel"
+    },
+    "RANKING": {
+        "FAMILY": "Famille",
+        "MEMBERS": "Membres",
+        "NAME": "Nom",
+        "RANK": "Rang",
+        "SEARCH": "Rechercher"
+    },
+    "REVIEW": "Champ pour rajouter une image",
+    "SLIDES": {
+        "0": {
+            "DESC": "Préparez vous à un serveur d'un nouveau genre.",
+            "TITLE": "NosWings est de retour !"
+        },
+        "1": {
+            "DESC": "",
+            "TITLE": "CE SITE EST EN CONSTRUCTION, C'EST UNIQUEMENT UNE DEMO POUR LE MOMENT"
+        }
+    },
+    "USER_INFOS": {
+        "CLASS": "Classe",
+        "CHARACTER": "Personnage",
+        "CREATION_DATE": "Date de création",
+        "CURRENT_INFO": "Informations actuelles",
+        "GOLD": "Or",
+        "LAST_LOGIN": "Dernière connexion",
+        "LEVEL": "Niveau",
+        "PSEUDO": "Pseudo",
+        "REPUT": "Réputation"
+    },
+    "USER_PANEL": {
+        "HOME": "Panel Utilisateur",
+        "SETTINGS": "Paramètres du compte",
+        "DONATION": "Dons",
+        "VIP": "Deviens VIP !",
+        "SHOP": "Boutique"
+    }
+  
+  },
+  "USER_INFOS": {
+    "CLASS": "Classe",
+    "CHARACTER": "Personnage",
+    "CREATION_DATE": "Date de création",
+    "CURRENT_INFO": "Informations actuelles",
+    "GOLD": "Or",
+    "LAST_LOGIN": "Dernière connexion",
+    "LEVEL": "Niveau",
+    "PSEUDO": "Pseudo",
+    "REPUT": "Réputation"
+  
+  },
+  "USER_PANEL": {
+    "HOME": "Panel Utilisateur",
+    "SETTINGS": "Paramètres du compte",
+    "DONATION": "Dons",
+    "VIP": "Deviens VIP !",
+    "SHOP": "Boutique"
+  }
+}
